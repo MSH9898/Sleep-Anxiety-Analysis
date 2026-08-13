@@ -6,7 +6,7 @@ This project investigates the relationships between sleep quality, daily stress,
 
 The analysis was performed using **jamovi** and includes descriptive statistics, normality assessment, correlation analysis, and linear regression models.
 
-This study should be considered an **exploratory analysis** due to the relatively small sample size (N = 22).
+This study is an **exploratory analysis** due to the relatively small sample size.
 
 ---
 
@@ -33,16 +33,18 @@ The dataset includes the following measures:
 
 ## Statistical Analysis
 
-The following analyses were conducted using jamovi:
+All analyses were conducted using **jamovi**.
 
-### 1. Descriptive Statistics
+The following analyses were performed:
+
+### Descriptive Statistics
 
 - Mean
 - Median
 - Standard deviation
 - Minimum and maximum values
 
-### 2. Normality Assessment
+### Normality Assessment
 
 Normality was assessed using:
 
@@ -50,16 +52,16 @@ Normality was assessed using:
 - Histograms
 - Q-Q plots
 
-Due to deviations from normality in some variables, both Pearson and Spearman correlations were considered.
+Because some variables showed deviations from normality, both Pearson and Spearman correlations were examined.
 
-### 3. Correlation Analysis
+### Correlation Analysis
 
 - Pearson correlation
 - Spearman correlation
 
-### 4. Linear Regression Analysis
+### Linear Regression Analysis
 
-Simple linear regression models were used to examine associations between predictors and anxiety measures (STAI1 and STAI2).
+Simple linear regression models were used to examine associations between sleep, stress, personality traits, and anxiety symptoms.
 
 ---
 
@@ -115,6 +117,14 @@ The following models did not show statistically significant associations:
 - BISBAS_drive → STAI1
 - BISBAS_drive → STAI2
 - BISBAS_reward → STAI2
+
+---
+
+# Limitations
+
+This study used a relatively small sample size (N = 22).
+
+Therefore, findings should be interpreted as exploratory associations and should be confirmed in larger samples.
 
 ---
 
